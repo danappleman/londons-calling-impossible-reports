@@ -1,0 +1,12 @@
+{
+    "orgName": "Impossible Reports",
+    "edition": "Developer",
+    "hasSampleData": "true",
+    "description": "Using Apex Data Connector for Impossible Reports",
+    "settings": {
+        "orgPreferenceSettings" : {
+                "s1DesktopEnabled": true
+            }
+    },
+	"features" : ["AuthorApex","API"]
+}
